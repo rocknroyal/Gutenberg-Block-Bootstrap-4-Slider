@@ -1,0 +1,20 @@
+.wp-block-royality-tb4-slider .upload-area {
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+.wp-block-royality-tb4-slider .upload-area button {
+	margin: 10px 0;
+}
+
+.wp-block-royality-tb4-slider .slider-image {
+	float: left;
+	max-width: calc(90%/5);
+	margin: 0 1% 0;
+}
+
+.wp-block-royality-tb4-slider:after { 
+	content:""; 
+	clear:both; 
+	display: table; 
+}
